@@ -1,0 +1,29 @@
+languageCode = "en-us"
+title = "Hernan Acosta Site"
+baseurl = "http://hernan.engineer/"
+theme = "hugo-theme-nix"
+
+[params]
+  GithubID = "hernan0216"
+  #GitlabId = "your_gitlab"
+  TwitterID = "hernan0216"
+  LinkedInID = "acostahernan"
+  #GoogleplusID = "your_googleplus"
+  #FacebookID = "your_facebook"
+  Name = "Hernan Acosta"
+  HeaderUsername = "hernan0216"
+  HeaderHostname = "moon"
+  Email = "hernan0216@hotmail.com"
+  About = "B.S. in Computer Engineering and Research Engineer. My working experience in development started in 2005 using J2EE, my curriculum includes C++, Java, JavaScript, Perl, HTML5 and my favorite: Python. Strong backend developer skills using Linux with Emacs and Vim like IDEs, mixed with the mind of a Data Scientist and Engineer that dreams with the success of Semantic Web and loves Machine Learning."
+  ProfilePicture = "https://pbs.twimg.com/profile_images/787039731163037696/4r47Y0su.jpg"
+  #GoogleAnalytics = "your_google_analytics_id"
+	
+[menu]
+[[menu.header]]
+    name = "posts"
+    weight = 0
+    url = "/post"  
+
+
+  
+ 
