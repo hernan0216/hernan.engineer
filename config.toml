@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Hernan Acosta Site"
-baseurl = "http://hernan.engineer/"
+baseurl = "https://hernan0216.github.io"
 theme = "hugo-theme-nix"
 
 [params]
@@ -15,6 +15,6 @@ theme = "hugo-theme-nix"
   HeaderUsername = "hernan0216"
   HeaderHostname = "moon"
   Email = "hernan0216@hotmail.com"
-  About = "B.S. in Computer Engineering and Research Engineer. My working experience in development started in 2005 using J2EE, my curriculum includes C++, Java, JavaScript, Perl, HTML5 and my favorite: Python. Strong backend developer skills using Linux with Emacs and Vim like IDEs, mixed with the mind of a Data Scientist and Engineer that dreams with the success of Semantic Web and loves Machine Learning."
+  About = "B.S. in Computer Engineering. My working experience in development started when i was a teenager with C and C++, I woked in a wide range of proyects with diferents technologies, frameworks and programing languajes, my favorite is: Python. I have strong backend developer skills with an OOP aproach using Vim and Tmux like IDE, i worked with a wide range of datastores form relational sql databases, nosql, key value stores and graph stores. I´m mixed with the mind of a Data Scientist and Engineer that belive in Semantic Web and has funny time with Kaggle Machine Learning competitions."
   ProfilePicture = "https://pbs.twimg.com/profile_images/787039731163037696/4r47Y0su.jpg"
   #GoogleAnalytics = "your_google_analytics_id"
