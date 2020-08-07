@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Hernan Acosta Site"
-baseurl = "https://hernan0216.github.io"
+baseurl = "hernan0216.github.io"
 theme = "hugo-theme-nix"
 
 [params]
