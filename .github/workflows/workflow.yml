@@ -19,7 +19,7 @@ jobs:
         args: --gc --minify
       env:
         GITHUB_TOKEN: ${{ secrets.MY_PERSONAL_TOKEN }}
-   - name: Publish Site
+    - name: Publish Site
       uses: chabad360/hugo-gh-pages@master
       with:
         githubToken: ${{ secrets.MY_PERSONAL_TOKEN }}
