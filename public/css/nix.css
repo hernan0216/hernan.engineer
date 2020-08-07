@@ -13,6 +13,18 @@ body {
 	font-size: 1.5em;
 }
 
+img {
+ 	max-width: 100%;
+}
+
+.flex-wrapper {
+	display: flex;
+  	min-height: 100vh;
+  	flex-direction: column;
+	justify-content: space-between;
+	padding-top: 70px;
+}
+
 #green-terminal {
 	color: #00ff00;
 }
@@ -29,6 +41,9 @@ nav {
 	font-size: 1.5em;
 }
 
+.dropdown-menu li {
+	font-size: 1.5em;
+}
 
 h1,h2,h3,h4,h5,h6 {
 	font-family: 'Concert One', cursive;
@@ -36,6 +51,7 @@ h1,h2,h3,h4,h5,h6 {
 
 #user-name {
 	font-size: 5em;
+	text-transform: uppercase;
 }
 
 .user-description {
@@ -109,20 +125,20 @@ i {
 
 .wrapper {
 	min-height: 100%;
-	margin: 0 auto -50px;
-	padding-top: 50px;
+	margin: 0 auto;
 }
 
 .footer {
 	background-color: #F5F5F5;
-	display: block;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
 	width: 100%;
 	padding: 10px;
-	height: 50px;
 }
 
-.push {
-	height: 50px;
+.footer p {
+	margin: 0 !important;
 }
 
 .col-centered{
