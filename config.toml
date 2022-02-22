@@ -5,7 +5,6 @@ theme = "hugo-theme-nix"
 
 [params]
   GithubID = "hernan0216"
-  TwitterID = "hernan0216"
   LinkedInID = "acostahernan"
   CvURL = "https://raw.githubusercontent.com/hernan0216/hernan.engineer/master/CV.pdf"
   TelegramID = "hernan0216"
